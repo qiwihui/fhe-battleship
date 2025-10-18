@@ -5,6 +5,8 @@ It demonstrates how to build a **privacy-preserving, verifiable on-chain game** 
 
 > Tech focus: Fully Homomorphic Encryption (FHE) on EVM and asynchronous public decryption callbacks for minimal information disclosure.
 
+![fhe-battleship](./images/fhe-battleship.png)
+
 ---
 
 ## ✨ Features

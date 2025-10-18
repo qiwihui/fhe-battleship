@@ -11,8 +11,8 @@ class Game {
   constructor(shipSizes: number[], size: number) {
     this.shipSizes = shipSizes;
     this.players = [
-      new Player(new Gameboard(size), "Player"),
-      new Player(new Gameboard(size), "Computer")
+      new Player(new Gameboard(size), "Your"),
+      new Player(new Gameboard(size), "Player 2")
     ];
     this.currentPlayer = 0;
     this.initialized = false;
